@@ -1,0 +1,48 @@
+body {
+    background-color: #708090;
+    text-align: center;
+}
+
+
+input {
+    display: inline-block;
+    align: "center";
+    width: 10%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+h1 {
+    font-family: "Times New Roman", Georgia;
+    color: black;
+    margin-top: 300px;
+    font-size: 3em;
+    padding-top: 60px;
+}
+
+.article {
+    color:black;
+    background-color: #DCDCDC;
+    border: 2px solid black;
+    padding-bottom: 1px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+
+.search input {
+    height: 30px;
+    width: 400px;
+}
+
+
+#searchBox {
+    margin-bottom: 10px;
+}
+
+.search {
+    cursor: pointer;
+
+}
